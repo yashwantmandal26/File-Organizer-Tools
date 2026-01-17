@@ -58,3 +58,6 @@ project/
 - Saves time by eliminating manual sorting.
 - Keeps your workspace clean and professional.
 - Works instantly with no dependencies — just Windows .bat scripting.
+
+###################
+UnFolder_Everthing  WILL TAKE OUT ALL THE FILES FROM ANY FOLDERS IN THE DIRECTORY THE THIS .bat FILE IS PRESENT.
